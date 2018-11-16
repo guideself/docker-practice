@@ -1,0 +1,10 @@
+
+.classpath
+.project
+.settings/org.eclipse.core.resources.prefs
+*.prefs
+*.class
+*.MF
+target/classes/META-INF/maven/com.thinkdo.opensource/docker-practice/pom.properties
+target/classes/META-INF/maven/com.thinkdo.opensource/docker-practice/pom.xml
+/target/
